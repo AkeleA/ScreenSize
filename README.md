@@ -17,8 +17,8 @@ bash
 bash
 
 
-`cd screen-size-measurement` 
-`npm  install`
+1`cd screen-size-measurement` 
+2`npm  install`
 
 1.  Start the development server:
 
@@ -32,4 +32,4 @@ bash
 
 ### Conclusion
 
-This project demonstrates how to build a simple one-page application with Svelte and Tailwind CSS that measures the screen size and displays it to the user. It also shows how to
+This project demonstrates how to build a simple one-page application with Svelte and Tailwind CSS that measures the screen size and displays it to the user.
